@@ -1,0 +1,5 @@
+# Mastering Ansible
+
+"Mastering Ansible: A Comprehensive Guide to Configuration Management and Orchestration" is a comprehensive course that takes you through the step-by-step process of learning and mastering Ansible. This course is designed to provide a practical, hands-on experience in configuring a realistic application stack from scratch. Rather than following the traditional approach of sifting through extensive documentation, the topics in this course are strategically ordered to align with the increasing complexity of building and refactoring an application. Whether you are a beginner or an experienced user, this course offers valuable insights and practical skills for effectively managing and orchestrating configurations with Ansible. 
+
+[Detail](https://eduitfree.com/courses/mastering-ansible)
